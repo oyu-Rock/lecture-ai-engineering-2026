@@ -19,7 +19,13 @@
 
 ## 宿題
 
-- 取り組んだレベル：基礎 / 実装 / 発展
+- 取り組んだレベル：基礎
 - やったこと：
+    - 1. gemini-3.5-flash-liteで応答を3回観察
+    - 2. gemini-3.5-flashで応答を観察
+    - 3. gemini-3.8-flashで応答を3回観察
+    - 4. gemini-3.5-flash-liteでtemperature=0.0に変更して観察
 - 結果：
+
 - 気づき・疑問：
+
